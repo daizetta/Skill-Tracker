@@ -71,7 +71,7 @@ public class SkillsController {
                         "<h1>Skills Tracker for " + username + "</h1>" +
                         "<h2>Skills to learn</h2>" +
                         "<ol>" +
-                        "<li>"+ irstSkill + "</li>" +
+                        "<li>"+ firstSkill + "</li>" +
                         "<li>"+ secondSkill + "</li>" +
                         "<li>"+ thirdSkill+ "</li>" +
                         "</ol>" +
